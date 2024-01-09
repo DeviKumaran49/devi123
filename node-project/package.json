@@ -1,0 +1,26 @@
+{
+  "name": "farming",
+  "version": "1.0.0",
+  "description": "mini project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeviKumaran49/devi123.git"
+  },
+  "keywords": [
+    "node",
+    "azure"
+  ],
+  "author": "devi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeviKumaran49/devi123/issues"
+  },
+  "homepage": "https://github.com/DeviKumaran49/devi123#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
